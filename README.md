@@ -1,2 +1,1 @@
-# Tower.Seige
-Enjoy this pyramid game.
+# TowerSiege-1
